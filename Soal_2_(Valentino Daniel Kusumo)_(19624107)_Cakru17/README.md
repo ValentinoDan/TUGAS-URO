@@ -4,7 +4,7 @@
 
 # Program dimulai dengan memberikan pilihan robot kepada pemain, kemudian pemain diberikan kebebasan untuk memilih robot 1 & 2
 # Setelah itu, permainan akan berlangsung dimana kedua robot saling bertarung hingga health habis (0)
-#Terakhir, nama robot pemenang akan ditampilkan
+# Terakhir, nama robot pemenang akan ditampilkan
 
 Program dimulai dengan mengimport fungsi random, lalu membuat class Robot dengan beberapa atributnya (name, health, attack power)
 Dalam class Robot sendiri, ada beberapa fungsi, seperti get_name (nama robot), get_health (nyawa robot), attack (robot perang dengan damage sekian)
