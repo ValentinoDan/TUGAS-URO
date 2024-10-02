@@ -72,7 +72,7 @@ class Game:
     def add_robot(self, robot):
         self.robots.append(robot)
 
-    # Method untuk memulai permainan
+    # Metode untuk memulai permainan
     def start_game(self):
         if len(self.robots) < 2: # menghitung jumlah robot dalam index self.robots
             print("You need at least two robots to start the battle.")
