@@ -36,7 +36,7 @@ class Battle:
         self.robot1 = robot1
         self.robot2 = robot2
 
-    # Method untuk memulai pertarungan
+    # Metode untuk memulai pertarungan
     def start_fight(self):
         print("Battle Start!")
         print("")
